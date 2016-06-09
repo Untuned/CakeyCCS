@@ -35,7 +35,7 @@
         "cohost":               "https://mitchdev.net/pdj/host.png",
         "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
         "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-        "rdj":                  "hhttps://mitchdev.net/pdj/rdj.png",
+        "rdj":                  "https://mitchdev.net/pdj/rdj.png",
         "subscriber":           null,
         "silversubscriber":     null
     },
