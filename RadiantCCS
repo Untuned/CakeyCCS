@@ -2,7 +2,7 @@
     "room":                     "GregTunes",
     "author":                   "GregTunes",
     "icon":                     null,
-    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "css":                      "https://mitchdev.net/pdj/rcs.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
