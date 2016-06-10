@@ -28,7 +28,7 @@
     },
     "images": {
         "background":           "https://cdn.radiant.dj/rcs/bg/2k14tiki.jpg",
-        "playback":             "https://mitchdev.net/pdj/playback.png",
+        "playback":             null,
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
         "host":                 "https://mitchdev.net/pdj/host.png",
