@@ -19,7 +19,7 @@
         "host":                 "#FF3558",
         "cohost":               "#FF3558",
         "manager":              "#F3508F",
-        "bouncer":              "#F3508F",
+        "bouncer":              "#01e1ff",
         "rdj":                  "#89be6c",
         "subscriber":           "#A1A6B3",
         "silversubscriber":     "#A1A6B3",
@@ -34,7 +34,7 @@
         "host":                 "https://mitchdev.net/pdj/host.png",
         "cohost":               "https://mitchdev.net/pdj/host.png",
         "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
-        "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
+        "bouncer":              "https://mitchdev.net/pdj/bouncer.png",
         "rdj":                  "https://mitchdev.net/pdj/rdj.png",
         "subscriber":           null,
         "silversubscriber":     null
