@@ -8,7 +8,7 @@
         "allowAutowoot":        true,
         "allowAutojoin":        false,
         "allowAutograb":        true,
-        "allowSmartVote":       true,
+        "allowSmartVote":       false,
         "allowEmotes":          true,
         "allowShowingMehs":     true,
         "forceSmartVote":       false
