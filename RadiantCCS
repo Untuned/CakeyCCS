@@ -31,7 +31,7 @@
         "playback":             null,
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-        "host":                 "https://mitchdev.net/pdj/host.png",
+        "host":                 "https://cdn.radiant.dj/rcs/icons/radiant/host.png",
         "cohost":               "https://mitchdev.net/pdj/host.png",
         "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
         "bouncer":              "https://mitchdev.net/pdj/bouncer.png",
