@@ -18,10 +18,10 @@
         "ambassador":           "#00AA00",
         "host":                 "#AA0000",
         "cohost":               "#FF5555",
-        "manager":              "#FF55FF",
-        "bouncer":              "#55FFFF",
+        "manager":              "#FFAA00",
+        "bouncer":              "#00AAAA",
         "rdj":                  "#55FF55",
-        "subscriber":           "#FFAA00",
+        "subscriber":           "#FFFF55",
         "silversubscriber":     "#AAAAAA",
         "friend":               "#AA00AA",
         "user":                 "#555555"
