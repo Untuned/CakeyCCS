@@ -31,13 +31,14 @@
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
-        "host":                 "http://i.imgur.com/tx8z6Tl.png",
-        "cohost":               "http://i.imgur.com/n8eyM1r.png",
-        "manager":              "http://i.imgur.com/ZAHtQ6q.png",
-        "bouncer":              "http://i.imgur.com/ZxFH4HC.png",
-        "rdj":                  "http://i.imgur.com/hJbEQSA.png",
-        "subscriber":           null,
-        "silversubscriber":     null
+        "host":                 "http://cakey.tk/7-host.png",
+        "cohost":               "http://cakey.tk/6-cohost.png",
+        "manager":              "http://cakey.tk/5-manager.png",
+        "bouncer":              "http://cakey.tk/4-bouncer.png",
+        "rdj":                  "http://cakey.tk/3-rdj.png",
+        "subscriber":           "http://cakey.tk/2-subscriber.png",
+        "silversubscriber":     null,
+        "user":                 "http://cakey.tk/1-normal.png"
     },
     "autocomplete": [],
     "emotes": {
