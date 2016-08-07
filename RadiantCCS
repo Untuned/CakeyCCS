@@ -2,7 +2,7 @@
     "room":                     "Untuned",
     "author":                   "Untuned",
     "icon":                     null,
-    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "css":                      "http://cakey.tk/untuned/untuned.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
