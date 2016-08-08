@@ -2,7 +2,7 @@
     "room":                     "Untuned",
     "author":                   "Untuned",
     "icon":                     null,
-    "css":                      "https://rawgit.com/CakeNation/CakeyCCS/master/untuned.css",
+    "css":                      "https://rawgit.com/CakeNation/CakeyCCS/master/test2.html",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
