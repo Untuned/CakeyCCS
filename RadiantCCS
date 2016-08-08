@@ -2,7 +2,7 @@
     "room":                     "Untuned",
     "author":                   "Untuned",
     "icon":                     null,
-    "css":                      "https://raw.githubusercontent.com/CakeNation/CakeyCCS/master/untuned.css",
+    "css":                      "https://rawgit.com/CakeNation/CakeyCCS/master/untuned.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
@@ -31,13 +31,13 @@
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
-        "host":                 "https://raw.githubusercontent.com/CakeNation/CakeyCCS/master/7-host.png",
-        "cohost":               "https://raw.githubusercontent.com/CakeNation/CakeyCCS/master/6-cohost.png",
-        "manager":              "https://raw.githubusercontent.com/CakeNation/CakeyCCS/master/5-manager.png",
-        "bouncer":              "https://raw.githubusercontent.com/CakeNation/CakeyCCS/master/4-bouncer.png",
-        "rdj":                  "https://raw.githubusercontent.com/CakeNation/CakeyCCS/master/3-rdj.png",
-        "subscriber":           "https://raw.githubusercontent.com/CakeNation/CakeyCCS/master/2-subscriber.png",
-        "silversubscriber":     "https://raw.githubusercontent.com/CakeNation/CakeyCCS/master/2-ssubscriber.png"
+        "host":                 "https://rawgit.com/CakeNation/CakeyCCS/master/7-host.png",
+        "cohost":               "https://rawgit.com/CakeNation/CakeyCCS/master/6-cohost.png",
+        "manager":              "https://rawgit.com/CakeNation/CakeyCCS/master/5-manager.png",
+        "bouncer":              "https://rawgit.com/CakeNation/CakeyCCS/master/4-bouncer.png",
+        "rdj":                  "https://rawgit.com/CakeNation/CakeyCCS/master/3-rdj.png",
+        "subscriber":           "https://rawgit.com/CakeNation/CakeyCCS/master/2-subscriber.png",
+        "silversubscriber":     "https://rawgit.com/CakeNation/CakeyCCS/master/2-ssubscriber.png"
     },
     "autocomplete": [],
     "emotes": {
