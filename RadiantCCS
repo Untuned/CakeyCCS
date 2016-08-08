@@ -31,13 +31,13 @@
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
-        "host":                 "https://rawgit.com/CakeNation/CakeyCCS/master/7-host.png",
-        "cohost":               "https://rawgit.com/CakeNation/CakeyCCS/master/6-cohost.png",
-        "manager":              "https://rawgit.com/CakeNation/CakeyCCS/master/5-manager.png",
-        "bouncer":              "https://rawgit.com/CakeNation/CakeyCCS/master/4-bouncer.png",
-        "rdj":                  "https://rawgit.com/CakeNation/CakeyCCS/master/3-rdj.png",
-        "subscriber":           "https://rawgit.com/CakeNation/CakeyCCS/master/2-subscriber.png",
-        "silversubscriber":     "https://rawgit.com/CakeNation/CakeyCCS/master/2-ssubscriber.png"
+        "host":                 "http://i.imgur.com/KYVXSWN.png",
+        "cohost":               "http://i.imgur.com/nNmE3jo.png",
+        "manager":              "http://i.imgur.com/BzDh2u7.png",
+        "bouncer":              "http://i.imgur.com/z7wqI1m.png",
+        "rdj":                  "http://i.imgur.com/f4RhHC2.png",
+        "subscriber":           "http://i.imgur.com/xkHdiAc.png",
+        "silversubscriber":     "http://i.imgur.com/SvnLJnH.png"
     },
     "autocomplete": [],
     "emotes": {
