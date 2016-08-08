@@ -1882,22 +1882,22 @@
 /*BOT Customization*/
 /*******************/
 
-#chat-messages .id-15087847 .badge-box i.bdg
+#chat-messages .id-123456 .badge-box i.bdg
 {
         background-image:       url('https://i.imgur.com/eDh9sk1.png');
         background-size:        cover;
 }
-#chat-messages .id-15087847 
+#chat-messages .id-123456 
 {
        /* background: linear-gradient(85deg,#1F1232 0,#111317 33%,#111317 100%) !important;*/
         background: rgba(34, 23, 54, 0.33) !important;
         border-left: 3px solid #8230FF;
 }
-[data-cid^="15087847"] .msg .from .un 
+[data-cid^="123456"] .msg .from .un 
 {
         color: #9f68ff !important;
 }
-#chat-messages .id-15087847 .badge-box 
+#chat-messages .id-123456 .badge-box 
 {
         background:none;
 }
@@ -1906,7 +1906,7 @@
         background: rgba(34, 23, 54, 0.33) !important;
         border-left: 3px solid #8230FF;
 }
-#chat-messages .id-15087847 .icon {
+#chat-messages .id-123456 .icon {
     display: none;
 }
 
@@ -1957,14 +1957,14 @@
 /*******/
 
 /* Itami */
-.cm.role-dj.id-4123271 .msg .from .un, #user-lists .list .role-dj.id-4123271 .name 
+.cm.role-dj.id-15087847 .msg .from .un, #user-lists .list .role-dj.id-15087847 .name 
 {
     color: #FF8F00 !important;
 }
 
-.id-4123271 .msg .from .icon-chat-dj, #user-lists .list.room .user.id-4123271 .icon-chat-dj
+.id-15087847 .msg .from .icon-chat-dj, #user-lists .list.room .user.id-15087847 .icon-chat-dj
 {
-    background: url("https://i.imgur.com/tmwo7Ps.png") !important;
+    background: url("https://i.imgur.com/aaNZcFc.png") !important;
     background-size: 12px !important;
     background-repeat: no-repeat !important;
     background-position: 3px 1px !important;
