@@ -1,5 +1,5 @@
 div[id^="chat-messages"] .from:not(.staff):not(.has-sub)::before {
-    content: url("https://github.com/CakeNation/CakeyCCS/raw/master/1-normal.png");
+    content: url("https://rawgit.com/CakeNation/CakeyCCS/master/1-normal.png");
 }
 
 div[id^="chat-messages"] .from:not(.staff):not(.has-sub) > .un {
