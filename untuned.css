@@ -1953,9 +1953,10 @@
 /*VIP's*/
 /*Must have the Resident DJ rank as well*/
 /*VIP icon: https://i.imgur.com/aaNZcFc.png */
+/*Beta Tester icon: http://i.imgur.com/efX9JAU.png */
 /*******/
 
-/* ProDjMx */
+/* ProDjMx - Beta Tester */
 .cm.role-dj.id-4123271 .msg .from .un, #user-lists .list .role-dj.id-4123271 .name 
 {
     color: #C1973B !important;
@@ -1963,13 +1964,13 @@
 
 .id-4123271 .msg .from .icon-chat-dj, #user-lists .list.room .user.id-4123271 .icon-chat-dj
 {
-    background: url("https://i.imgur.com/aaNZcFc.png") !important;
+    background: url("http://i.imgur.com/efX9JAU.png") !important;
     background-size: 12px !important;
     background-repeat: no-repeat !important;
     background-position: 3px 1px !important;
 }
 
-/* Tevvet */
+/* Tevvet - Beta Tester */
 .cm.role-dj.id-4650382 .msg .from .un, #user-lists .list .role-dj.id-4650382 .name 
 {
     color: #C1973B !important;
@@ -1977,7 +1978,7 @@
 
 .id-4650382 .msg .from .icon-chat-dj, #user-lists .list.room .user.id-4650382 .icon-chat-dj
 {
-    background: url("https://i.imgur.com/aaNZcFc.png") !important;
+    background: url("http://i.imgur.com/efX9JAU.png") !important;
     background-size: 12px !important;
     background-repeat: no-repeat !important;
     background-position: 3px 1px !important;
