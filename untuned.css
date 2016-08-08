@@ -1956,13 +1956,13 @@
 /*VIP's*/
 /*******/
 
-/*Example*/
-.cm.role-dj.id-123456 .msg .from .un, #user-lists .list .role-dj.id-123456 .name 
+/* Itami */
+.cm.role-dj.id-4123271 .msg .from .un, #user-lists .list .role-dj.id-4123271 .name 
 {
     color: #DAA520 !important;
 }
 
-.id-123456 .msg .from .icon-chat-dj, #user-lists .list.room .user.id-123456 .icon-chat-dj
+.id-4123271 .msg .from .icon-chat-dj, #user-lists .list.room .user.id-4123271 .icon-chat-dj
 {
     background: url("https://i.imgur.com/aaNZcFc.png") !important;
     background-size: 12px !important;
