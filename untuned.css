@@ -1871,8 +1871,8 @@
 /* Untuned */
 [data-cid^="4224900"].cm .msg .from .un, #user-lists .list .user.role-host.id-4224900 .name
 {       
-        color: rgb(255, 109, 104) !important;
-        text-shadow: 0px 0px 1px #ff5e00, 0px 0px 5px #d6591e, 2px 2px 10px #ff3b00 !important;
+        color: rgb(0, 0, 0) !important;
+        text-shadow: 0px 0px 1px #ff5555, 0px 0px 5px #aa0000, 2px 2px 10px #ff5555 !important;
 }
 
 
